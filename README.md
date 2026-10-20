@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7fdbda,100:1f6f78&height=200&section=header&text=Caroline%20Ercegovic&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=CS%20%2B%20PPE%20%40%20Northeastern&descAlignY=58&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:2d3a2e,100:6b8f71&height=180&section=header&text=%3CCaroline%20Ercegovic%20%2F%3E&fontSize=44&fontColor=F4A7B9&fontAlignY=42&desc=CS%20%2B%20PPE%20%40%20Northeastern%20%7C%20code%20meets%20policy&descSize=18&descAlignY=68&animation=fadeIn)
 
 ### About me
 CS + PPE student at Northeastern (Class of 2029), interested in software engineering, data, and tech in government.
