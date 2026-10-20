@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:2d3a2e,100:6b8f71&height=180&section=header&text=%3CCaroline%20Ercegovic%20%2F%3E&fontSize=44&fontColor=F4A7B9&fontAlignY=42&desc=CS%20%2B%20PPE%20%40%20Northeastern%20%7C%20code%20meets%20policy&descSize=18&descAlignY=68&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:2d3a2e,100:6b8f71&height=180&section=header&text=%7B%20Caroline%20Ercegovic%20%7D&fontSize=44&fontColor=F4A7B9&fontAlignY=42&desc=CS%20%2B%20PPE%20%40%20Northeastern%20%7C%20code%20meets%20policy&descSize=18&descAlignY=68&animation=fadeIn)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F4A7B9&center=true&vCenter=true&width=550&lines=Research+Analyst+%40+Disrupt;Building+Oasis+with+React+%2B+Supabase;Looking+for+a+Spring+2027+co-op" alt="Typing intro" />
