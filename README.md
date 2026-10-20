@@ -7,22 +7,18 @@
 </p>
 
 <p align="center">
-  <img src="about.svg" width="100%" alt="About me: CS + PPE student at Northeastern (Class of 2029), interested in software engineering, data, and tech in government." />
+  <img src="about%20(1).svg" width="100%" alt="About me: CS + PPE student at Northeastern (Class of 2029), interested in software engineering, data, and tech in government." />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Oasis-NEU/f26-group-9"><img src="project-study-abroad.svg" width="49%" alt="Study abroad rating site: a website where former NUin and Dialogue students rate their abroad locations. React and Supabase." /></a>
-  <img src="project-disrupt.svg" width="49%" alt="Research Analyst at Disrupt: writing on how fintech can stop EBT card skimming." />
+  <a href="https://github.com/Oasis-NEU/f26-group-9"><img src="project-study-abroad%20(1).svg" width="49%" alt="Study abroad rating site: a website where former NUin and Dialogue students rate their abroad locations. React and Supabase." /></a>
+  <img src="project-disrupt%20(1).svg" width="49%" alt="Research Analyst at Disrupt: writing on how fintech can stop EBT card skimming." />
 </p>
 
 <p align="center">
-  <img src="tools.svg" width="100%" alt="Stack: Python, Java, SQL, Pandas, NumPy, React, Supabase, Power Apps" />
+  <img src="tools%20(1).svg" width="100%" alt="Stack: Python, Java, SQL, Pandas, NumPy, React, Supabase, Power Apps" />
 </p>
 
 <p align="center">
-  <a href="mailto:ercegovic.c@northeastern.edu"><img src="status.svg" width="100%" alt="Seeking a Spring 2027 co-op in software engineering, data, or policy-adjacent tech. Contact: ercegovic.c@northeastern.edu" /></a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineErcegovic&layout=compact&bg_color=1f2a21&title_color=F4A7B9&text_color=f5efe6&hide_border=true" alt="Top languages" />
+  <a href="mailto:ercegovic.c@northeastern.edu"><img src="status%20(1).svg" width="100%" alt="Seeking a Spring 2027 co-op in software engineering, data, or policy-adjacent tech. Contact: ercegovic.c@northeastern.edu" /></a>
 </p>
