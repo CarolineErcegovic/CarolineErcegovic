@@ -1,14 +1,16 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:2d3a2e,100:6b8f71&height=180&section=header&text=%7B%20Caroline%20Ercegovic%20%7D&fontSize=44&fontColor=F4A7B9&fontAlignY=42&desc=CS%20%2B%20PPE%20%40%20Northeastern%20%7C%20code%20meets%20policy&descSize=18&descAlignY=68&animation=fadeIn)
+<p align="center">
+  <img src="header.svg" width="100%" alt="Caroline Ercegovic" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F4A7B9&center=true&vCenter=true&width=550&lines=Research+Analyst+%40+Disrupt;Building+Oasis+with+React+%2B+Supabase;Looking+for+a+Spring+2027+co-op" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F4A7B9&center=true&vCenter=true&width=600&lines=Research+Analyst+%40+Disrupt;Building+a+study+abroad+rating+site;Looking+for+a+Spring+2027+co-op" alt="Typing intro" />
 </p>
 
 ### About me
 CS + PPE student at Northeastern (Class of 2029), interested in software engineering, data, and tech in government.
 
 ### 🔭 What I'm working on
-- **[Oasis](https://github.com/Oasis-NEU/f26-group-9)**: a website where former NUin and Dialogue students rate their study abroad locations so future students can choose with real info. Built with React and Supabase, launching this winter.
+- **[Study abroad rating website](https://github.com/Oasis-NEU/f26-group-9)**: a site where former NUin and Dialogue students rate their study abroad locations so future students can choose with real info. Built with React and Supabase, launching this winter.
 - **Research Analyst at Disrupt**: writing on how fintech can stop EBT card skimming, from both the tech and policy side.
 
 ### 🛠️ Tools
